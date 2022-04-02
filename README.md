@@ -1,5 +1,5 @@
 ## motion-planning
-深蓝学院运动规划课程作业
+深蓝学院运动规划课程作业，均为C++实现。
 ## 02 Search based path finding
 包含A*，JPS算法的实现
 
